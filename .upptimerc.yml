@@ -9,7 +9,7 @@ sites:
     url: https://en.wikipedia.org
   - name: Baidu
     url: https://www.baidu.com
-  - name: QQ
+  - name: "疼逊"
     url: https://www.qq.com
   - name: IPv6 test
     url: forwardemail.net
