@@ -7,7 +7,7 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: 论坛
+  - name: test
     url: http://bbs.ftcraft.top
   - name: IPv6 test
     url: forwardemail.net
