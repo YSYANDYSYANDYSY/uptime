@@ -38,11 +38,11 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 #下面这一坨Git更新汉化好像有BUG导致无论是否在线全显示红色但是数据正常???
-#commitMessages:
-#  readmeContent: ":pencil: README [skip ci] [upptime]中的更新摘要"
-#  summaryJson: ":card_file_box: 更新状态摘要[skip ci] [uppptime]"
-#  statusChange: "$EMOJI $SITE_NAME 状态变更为 $STATUS (返回 $RESPONSE_CODE 在 $RESPONSE_TIME 毫秒) [skip ci] [upptime]"
-#  graphsUpdate: ":bento: 更新图 [skip ci] [uppptime]"
+commitMessages:
+  readmeContent: ":pencil: README [skip ci] [upptime]中的更新摘要"
+  summaryJson: ":card_file_box: 更新状态摘要[skip ci] [uppptime]"
+  statusChange: "$EMOJI $SITE_NAME 状态变更为 $STATUS (返回 $RESPONSE_CODE 在 $RESPONSE_TIME 毫秒) [skip ci] [upptime]"
+  graphsUpdate: ":bento: 更新图 [skip ci] [uppptime]"
 
 i18n:
   activeIncidents: 活跃的事件
