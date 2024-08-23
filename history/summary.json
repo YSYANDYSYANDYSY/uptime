@@ -54,21 +54,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "疼逊",
+    "name": "QQ",
     "url": "https://www.qq.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.qq.com.ico",
-    "slug": "",
+    "slug": "qq",
     "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1385,
-    "timeDay": 1385,
-    "timeWeek": 1385,
-    "timeMonth": 1385,
-    "timeYear": 1385,
+    "time": 936,
+    "timeDay": 936,
+    "timeWeek": 936,
+    "timeMonth": 936,
+    "timeYear": 936,
     "dailyMinutesDown": {}
   },
   {
