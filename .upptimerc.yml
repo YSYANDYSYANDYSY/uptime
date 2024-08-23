@@ -7,8 +7,10 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: test
-    url: http://bbs.ftcraft.top
+  - name: Baidu
+    url: https://www.baidu.com
+  - name: QQ
+    url: https://www.qq.com
   - name: IPv6 test
     url: forwardemail.net
     port: 80
