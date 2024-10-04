@@ -24,18 +24,16 @@
     "slug": "wikipedia",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 234,
-    "dailyMinutesDown": {
-      "2024-10-03": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Baidu",
